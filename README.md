@@ -1,5 +1,4 @@
 # semgrep-ci-to-sms
-Enable SMS for current projects scanned through CI.
 This script automates enabling **Semgrep Managed Scans (SMS)** across all projects in a deployment, except those that already have SMS enabled and those without any scans (not onboarded projects).
 
 It performs the following steps:
